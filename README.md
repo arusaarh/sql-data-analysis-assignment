@@ -1,7 +1,7 @@
 # SQL Data Analysis Assignment
 
 ## Overview
-This repository contains a SQL-based data analysis assignment completed as part of a BI Data Analyst internship application.  
+This repository contains a SQL-based data analysis assignment completed as part of a BI Data Analyst application.  
 The goal of the task was to analyze structured data, address data quality issues and answer business-oriented analytical questions using SQL.
 
 The focus of this project is on clear analytical reasoning, readable SQL and reproducible results rather than advanced optimisation.
